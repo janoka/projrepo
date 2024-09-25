@@ -3,3 +3,7 @@ Temporary repository for training only, should be deleted after Drupalcon Barcel
 
 # Janoka was here
 
+This is rfay's edit, first one.
+
+## asldj a
+
